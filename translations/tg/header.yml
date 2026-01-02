@@ -1,0 +1,13 @@
+skip_link: 'Ба мундариҷаи асосӣ гузаред'
+# This word identifies a software or web project as being in the early stages of development
+alpha: 'Алфа'
+disclaimer: 'Ин сайт дар ҳолати коркард аст. Мо <a href="mailto:%email_address">фикру
+  мулоҳизаҳои </a> шуморо қабул мекунем.'
+# This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
+tag_line: '17 Ҳадафҳо барои тағир додани ҷаҳони мо'
+high_contrast: 'Контрасти баланд'
+default_contrast: 'Контрасти пешфарз'
+enable_high_contrast: 'Контрасти баландро фаъол созед'
+disable_high_contrast: 'Контрасти баландро хомӯш кунед'
+toggle_search: 'Калиди ҷустуҷӯ. Барои васеъ ё кам кардани сатри ҷустуҷӯ клик кунед.'
+toggle_menu: 'Менюро иваз кунед. Барои васеъ ё хурдани меню клик кунед.'

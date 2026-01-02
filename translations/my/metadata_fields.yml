@@ -1,0 +1,127 @@
+computation_calculations: တွက်ချက်မှုများ
+computation_definitions: အဓိပ္ပာယ်ဖွင့်ဆိုချက်များ
+computation_units: တိုင်းတာမှုယူနစ်
+goal_meta_link: ကုလသမဂ္ဂ ဒေတာဆိုင်ရာဒေတာကို ချိတ်ဆက်သော လင့်ခ်
+indicator: အညွှန်းနံပါတ်
+indicator_definition: ကမ္ဘာ့အညွှန်း ဖော်ပြချက်
+indicator_name: အညွှန်းအမည်
+indicator_sort_order: အညွှန်း ပြသချက် အစဉ် (ရည်မှန်းချက်ပန်းတိုင် စာမျက်နှာထဲတွင်ရှိသော)
+national_data_update_url: ဒေတာကို နောက်ဆုံးတင်ပြခဲ့ချိန်
+national_geographical_coverage: ပထဝီဝင်လွှမ်းခြုံမှု
+national_indicator_available: ရနိုင်သော အညွှန်း
+national_indicator_description: အညွှန်းအကြောင်းဖော်ပြချက်
+national_metadata_update_url: ဒေတာဆိုင်ရာဒေတာကို နောက်ဆုံးတင်ပြခဲ့ချိန်
+other_info: အခြားအချက်အလက်များ
+source_contact_1: ဆက်သွယ်ရန် အသေးစိတ်အချက်အလက်များ
+source_contact_2: ဆက်သွယ်ရန် အသေးစိတ်အချက်အလက်များ
+source_contact_3: ဆက်သွယ်ရန် အသေးစိတ်အချက်အလက်များ
+source_contact_4: ဆက်သွယ်ရန် အသေးစိတ်အချက်အလက်များ
+source_contact_5: ဆက်သွယ်ရန် အသေးစိတ်အချက်အလက်များ
+source_contact_6: ဆက်သွယ်ရန် အသေးစိတ်အချက်အလက်များ
+source_earliest_available_1: အစောဆုံးရရှိနိုင်သောဒေတာ
+source_earliest_available_2: အစောဆုံးရရှိနိုင်သောဒေတာ
+source_earliest_available_3: အစောဆုံးရရှိနိုင်သောဒေတာ
+source_earliest_available_4: အစောဆုံးရရှိနိုင်သောဒေတာ
+source_earliest_available_5: အစောဆုံးရရှိနိုင်သောဒေတာ
+source_earliest_available_6: အစောဆုံးရရှိနိုင်သောဒေတာ
+source_geographical_coverage_1: ပထဝီဝင်လွှမ်းခြုံမှု
+source_geographical_coverage_2: ပထဝီဝင်လွှမ်းခြုံမှု
+source_geographical_coverage_3: ပထဝီဝင်လွှမ်းခြုံမှု
+source_geographical_coverage_4: ပထဝီဝင်လွှမ်းခြုံမှု
+source_geographical_coverage_5: ပထဝီဝင်လွှမ်းခြုံမှု
+source_geographical_coverage_6: ပထဝီဝင်လွှမ်းခြုံမှု
+source_next_release_1: နောင်လာမည့်ထုတ်ပြန်ချက်
+source_next_release_2: နောင်လာမည့်ထုတ်ပြန်ချက်
+source_next_release_3: နောင်လာမည့်ထုတ်ပြန်ချက်
+source_next_release_4: နောင်လာမည့်ထုတ်ပြန်ချက်
+source_next_release_5: နောင်လာမည့်ထုတ်ပြန်ချက်
+source_next_release_6: နောင်လာမည့်ထုတ်ပြန်ချက်
+source_organisation_1: အဖွဲ့အစည်း
+source_organisation_2: အဖွဲ့အစည်း
+source_organisation_3: အဖွဲ့အစည်း
+source_organisation_4: အဖွဲ့အစည်း
+source_organisation_5: အဖွဲ့အစည်း
+source_organisation_6: အဖွဲ့အစည်း
+source_other_info_1: အခြားအချက်အလက်များ
+source_other_info_2: အခြားအချက်အလက်များ
+source_other_info_3: အခြားအချက်အလက်များ
+source_other_info_4: အခြားအချက်အလက်များ
+source_other_info_5: အခြားအချက်အလက်များ
+source_other_info_6: အခြားအချက်အလက်များ
+source_periodicity_1: ပုံမှန်ထုတ်ပြန်သည့်ကာလအပိုင်းအခြား
+source_periodicity_2: ပုံမှန်ထုတ်ပြန်သည့်ကာလအပိုင်းအခြား
+source_periodicity_3: ပုံမှန်ထုတ်ပြန်သည့်ကာလအပိုင်းအခြား
+source_periodicity_4: ပုံမှန်ထုတ်ပြန်သည့်ကာလအပိုင်းအခြား
+source_periodicity_5: ပုံမှန်ထုတ်ပြန်သည့်ကာလအပိုင်းအခြား
+source_periodicity_6: ပုံမှန်ထုတ်ပြန်သည့်ကာလအပိုင်းအခြား
+source_release_date_1: ထုတ်ပြန်သည့်ရက်စွဲ
+source_release_date_2: ထုတ်ပြန်သည့်ရက်စွဲ
+source_release_date_3: ထုတ်ပြန်သည့်ရက်စွဲ
+source_release_date_4: ထုတ်ပြန်သည့်ရက်စွဲ
+source_release_date_5: ထုတ်ပြန်သည့်ရက်စွဲ
+source_release_date_6: ထုတ်ပြန်သည့်ရက်စွဲ
+source_statistical_classification_1: စာရင်းအင်းဆိုင်ရာ အမျိုးအစားခွဲခြားမှု
+source_statistical_classification_2: စာရင်းအင်းဆိုင်ရာ အမျိုးအစားခွဲခြားမှု
+source_statistical_classification_3: စာရင်းအင်းဆိုင်ရာ အမျိုးအစားခွဲခြားမှု
+source_statistical_classification_4: စာရင်းအင်းဆိုင်ရာ အမျိုးအစားခွဲခြားမှု
+source_statistical_classification_5: စာရင်းအင်းဆိုင်ရာ အမျိုးအစားခွဲခြားမှု
+source_statistical_classification_6: စာရင်းအင်းဆိုင်ရာ အမျိုးအစားခွဲခြားမှု
+source_url_1: ဒေတာရင်းမြစ်ကိုဖော်ပြသည့်လင့်ခ်
+source_url_2: ဒေတာရင်းမြစ်ကိုဖော်ပြသည့်လင့်ခ်
+source_url_3: ဒေတာရင်းမြစ်ကိုဖော်ပြသည့်လင့်ခ်
+source_url_4: ဒေတာရင်းမြစ်ကိုဖော်ပြသည့်လင့်ခ်
+source_url_5: ဒေတာရင်းမြစ်ကိုဖော်ပြသည့်လင့်ခ်
+source_url_6: ဒေတာရင်းမြစ်ကိုဖော်ပြသည့်လင့်ခ်
+target_id: ရည်မှန်းချက်အမှတ်
+un_custodian_agency: တာဝန်ရှိသော ကုလသမဂ္ဂအေဂျင်စီ
+un_designated_tier: ကုလသမဂ္ဂ အဆင့်သတ်မှတ်ချက်အလွှာ
+target: 'ပစ်မှတ်အမည်'
+quality_assurance: 'အရည်အသွေးကောင်းခြင်းအာမခံချက်'
+international_comparability: 'အပြည်ပြည်ဆိုင်ရာဒေတာ / စံချိန်စံညွှန်းများနှင့်အတူနှိုင်းယှဉ်'
+comments_limitations: 'မှတ်ချက်များနှင့်ကန့်သတ်ချက်များ'
+rationale_interpretation: 'ဆင်ခြင်တုံတရားနှင့်အနက်'
+rational_interpretation: 'ဆင်ခြင်တုံတရားနှင့်အနက်'
+copyright: 'မူပိုင်ခွင့်'
+OTHER_DOC: ကိုးကားချက်များနှင့်မှတ်တမ်း
+COMPARABILITY: အပြည်ပြည်ဆိုင်ရာစံချိန်စံညွှန်းများမှနှိုင်းယှဉ်ခြင်း / သွေဖည်ခြင်း
+COVERAGE: ဒေတာများရရှိနိုင်မှုနှင့်ကွဲလွဲမှု
+QUALITY_ASSMNT: အရည်အသွေးအကဲဖြတ်
+QUALITY_ASSURE: အရည်အသွေးကောင်းခြင်းအာမခံချက်
+QUALITY_MGMNT: အရည်အသွေးစီမံခန့်ခွဲမှု
+DOC_METHOD: နိုင်ငံအဆင့်တွင်အချက်အလက်များစုဆောင်းရန်နိုင်ငံများအတွက်ရရှိနိုင်သောနည်းလမ်းများနှင့်လမ်းညွှန်ချက်များ
+REG_AGG: ဒေသဆိုင်ရာစုစည်းမှု
+IMPUTATION: ပျောက်ဆုံးနေသောတန်ဖိုးများကို (၁) တိုင်းပြည်အဆင့်နှင့် (၂) ဒေသအဆင့်တွင်ဆက်ဆံခြင်း
+ADJUSTMENT: ချိန်ညှိ
+DATA_VALIDATION: အတည်ပြုချက်
+DATA_COMP: တွက်ချက်မှုနည်းလမ်း
+REC_USE_LIM: မှတ်ချက်နှင့်ကန့်သတ်ချက်များ
+RATIONALE: ကျိုးကြောင်းဆင်ခြင်မှု
+OTHER_METHOD: အခြားနည်းစနစ်ထည့်သွင်းစဉ်းစား
+INST_MANDATE: အဖွဲ့အစည်းဆိုင်ရာလုပ်ပိုင်ခွင့်
+COMPILING_ORG: ဒေတာပြုစုသူ
+DATA_SOURCE: ဒေတာပံ့ပိုးပေး
+REL_CAL_POLICY: ဒေတာထုတ်လွှတ်ပြက္ခဒိန်
+FREQ_COLL: ဒေတာစုဆောင်းခြင်းပြက္ခဒိန်
+COLL_METHOD: ဒေတာစုဆောင်းခြင်းနည်းလမ်း
+SOURCE_TYPE: ဒေတာအရင်းအမြစ်များ
+SRC_TYPE_COLL_METHOD: ဒေတာအရင်းအမြစ်အမျိုးအစားနှင့်စုဆောင်းခြင်းနည်းလမ်း
+CLASS_SYSTEM: အမျိုးအစားများ
+UNIT_MEASURE: အတိုင်းအတာယူနစ်
+STAT_CONC_DEF: အဓိပ္ပါယ်နှင့်သဘောတရားများ
+IND_DEF_CON_CLASS: အဓိပ္ပါယ်, သဘောတရားများနှင့်ခွဲခြား
+CONTACT_EMAIL: အီးမေးလ်ကိုဆက်သွယ်ပါ
+CONTACT_MAIL: ဆက်သွယ်ရန်အီးမေးလ်
+CONTACT_PHONE: ဆက်သွယ်ရန်ဖုန်း
+CONTACT_FUNCT: ဆက်သွယ်ရန်ပုဂ္ဂိုလ်၏လုပ်ဆောင်ချက်
+ORGANISATION_UNIT: အဖွဲ့အစည်းယူနစ်ကိုဆက်သွယ်ပါ
+CONTACT_NAME: ဆက်သွယ်ရန်ပုဂ္ဂိုလ် (များ)
+CONTACT_ORGANISATION: အဖွဲ့အစည်း
+CONTACT: ဒေတာသတင်းထောက်
+SDG_CUSTODIAN_AGENCIES: ကမ္ဘာလုံးဆိုင်ရာစောင့်ကြည့်မှုအတွက်တာဝန်ရှိသည့်နိုင်ငံတကာအဖွဲ့အစည်းများ
+SDG_RELATED_INDICATORS: ဆက်စပ်ညွှန်းကိန်း
+META_LAST_UPDATE: metadata update ကို
+SDG_SERIES_DESCR: စီးရီး
+SDG_INDICATOR: အညွှန်း
+SDG_TARGET: ဗဟိုချက်
+SDG_GOAL: ရည်မှန်းချက်
+SDG_INDICATOR_INFO: အညွှန်းကိန်းသတင်းအချက်အလက်

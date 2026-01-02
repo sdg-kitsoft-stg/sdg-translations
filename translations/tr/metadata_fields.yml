@@ -1,0 +1,150 @@
+# A label describing information - any other metadata about a particular indicator - not covered by more specific labels
+other_info: 'Diğer bilgiler'
+# A label describing information - any calculations that were used in the production of a dataset
+computation_calculations: 'Hesaplamalar'
+# A label describing information - a list of definitions of terms used within other metadata fields
+computation_definitions: 'Tanımlar'
+# A label describing information - the unit of measurement that is being represented in a dataset
+computation_units: 'Ölçü birimi'
+# A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
+goal_meta_link: 'BM üst verilerine bağlantı'
+# A label describing information - the numeric code for a particular indicator
+indicator: 'Gösterge numarası'
+# A label describing information - the definition for a particular indicator - as provided by the United Nations
+indicator_definition: 'Küresel gösterge açıklaması'
+# A label describing information - the name of a particular indicator
+indicator_name: 'Gösterge adı'
+indicator_sort_order: 'Gösterge görüntüleme sırası (Amaç sayfası içinde)'
+national_data_update_url: 'Veriler son güncellendi'
+# A label describing information - the geographical area covered by a dataset
+national_geographical_coverage: 'Coğrafi kapsam'
+national_indicator_available: 'Gösterge kullanılabilir'
+national_indicator_description: 'Gösterge açıklaması'
+national_metadata_update_url: 'Üst veriler son güncellendi'
+# A label describing information - contact information for the person or agency that provided data
+source_contact_1: 'İletişim bilgileri'
+source_contact_2: 'İletişim bilgileri'
+source_contact_3: 'İletişim bilgileri'
+source_contact_4: 'İletişim bilgileri'
+source_contact_5: 'İletişim bilgileri'
+source_contact_6: 'İletişim bilgileri'
+# A label describing information - the earliest date at which data for a particular indicator was provided by a particular person or agency
+source_earliest_available_1: 'Kullanılabilir en eski veriler'
+source_earliest_available_2: 'Kullanılabilir en eski veriler'
+source_earliest_available_3: 'Kullanılabilir en eski veriler'
+source_earliest_available_4: 'Kullanılabilir en eski veriler'
+source_earliest_available_5: 'Kullanılabilir en eski veriler'
+source_earliest_available_6: 'Kullanılabilir en eski veriler'
+# A label describing information - the geographical area covered in the data provided by a particular person or agency
+source_geographical_coverage_1: 'Coğrafi kapsam'
+source_geographical_coverage_2: 'Coğrafi kapsam'
+source_geographical_coverage_3: 'Coğrafi kapsam'
+source_geographical_coverage_4: 'Coğrafi kapsam'
+source_geographical_coverage_5: 'Coğrafi kapsam'
+source_geographical_coverage_6: 'Coğrafi kapsam'
+# A label describing information - the date at which a particular person or agency plans to update their provided data
+source_next_release_1: 'Sonraki yayın'
+source_next_release_2: 'Sonraki yayın'
+source_next_release_3: 'Sonraki yayın'
+source_next_release_4: 'Sonraki yayın'
+source_next_release_5: 'Sonraki yayın'
+source_next_release_6: 'Sonraki yayın'
+# A label describing information - the name of any organization associated with some provided data
+source_organisation_1: 'Kuruluş'
+source_organisation_2: 'Kuruluş'
+source_organisation_3: 'Kuruluş'
+source_organisation_4: 'Kuruluş'
+source_organisation_5: 'Kuruluş'
+source_organisation_6: 'Kuruluş'
+# A label describing information - any other information about a particular source of data for a particular indicator
+source_other_info_1: 'Diğer bilgiler'
+source_other_info_2: 'Diğer bilgiler'
+source_other_info_3: 'Diğer bilgiler'
+source_other_info_4: 'Diğer bilgiler'
+source_other_info_5: 'Diğer bilgiler'
+source_other_info_6: 'Diğer bilgiler'
+# A label describing information - the frequency with which a particular source of data will provide updates
+source_periodicity_1: 'Periyodiklik'
+source_periodicity_2: 'Periyodiklik'
+source_periodicity_3: 'Periyodiklik'
+source_periodicity_4: 'Periyodiklik'
+source_periodicity_5: 'Periyodiklik'
+source_periodicity_6: 'Periyodiklik'
+# A label describing information - The date at which a particular source provided their data
+source_release_date_1: 'Yayın tarihi'
+source_release_date_2: 'Yayın tarihi'
+source_release_date_3: 'Yayın tarihi'
+source_release_date_4: 'Yayın tarihi'
+source_release_date_5: 'Yayın tarihi'
+source_release_date_6: 'Yayın tarihi'
+# A label describing information - some classification of a particular source of data for a particular indicator
+source_statistical_classification_1: 'İstatistiksel sınıflandırma'
+source_statistical_classification_2: 'İstatistiksel sınıflandırma'
+source_statistical_classification_3: 'İstatistiksel sınıflandırma'
+source_statistical_classification_4: 'İstatistiksel sınıflandırma'
+source_statistical_classification_5: 'İstatistiksel sınıflandırma'
+source_statistical_classification_6: 'İstatistiksel sınıflandırma'
+source_url_1: 'Veri kaynağına bağlantı'
+source_url_2: 'Veri kaynağına bağlantı'
+source_url_3: 'Veri kaynağına bağlantı'
+source_url_4: 'Veri kaynağına bağlantı'
+source_url_5: 'Veri kaynağına bağlantı'
+source_url_6: 'Veri kaynağına bağlantı'
+# A label describing information - the overall SDG target associated with a particular indicator
+target: 'Hedef adı'
+# A label describing information - the numeric id for the overall SDG target associated with a particular indicator
+target_id: 'Hedef numarası'
+# A label describing information - the United Nations custodian agency associated with a particular indicator
+un_custodian_agency: 'BM saklama kurumu'
+# A label describing information - the 'tier' (1 - 2 - or 3) that the United Nations has assigned to a particular indicator
+un_designated_tier: 'BM tarafından belirlenen seviye'
+quality_assurance: 'Kalite güvencesi'
+international_comparability: 'Uluslararası verilerle/standartlarla karşılaştırılabilirlik'
+comments_limitations: 'Yorumlar ve sınırlamalar'
+rationale_interpretation: 'Analiz ve yorumlama'
+rational_interpretation: 'Analiz ve yorumlama'
+copyright: 'Telif hakkı'
+OTHER_DOC: Referanslar ve Belgelendirme
+COMPARABILITY: Karşılaştırılabilirlik/uluslararası standartlardan sapma
+COVERAGE: Veri kullanılabilirliği ve ayrıştırma
+QUALITY_ASSMNT: Kalite değerlendirmesi
+QUALITY_ASSURE: Kalite güvencesi
+QUALITY_MGMNT: Kalite yönetimi
+DOC_METHOD: Ulusal düzeyde verilerin derlenmesi için ülkelere sunulan yöntemler ve
+  rehberlik
+REG_AGG: Bölgesel toplamalar
+IMPUTATION: Eksik değerlerin (i) ülke düzeyinde ve (ii) bölgesel düzeyde ele alınması
+ADJUSTMENT: Ayarlamalar
+DATA_VALIDATION: Doğrulama
+DATA_COMP: Hesaplama yöntemi
+REC_USE_LIM: Yorum ve sınırlamalar
+RATIONALE: Gerekçe
+OTHER_METHOD: Diğer yöntemsel hususlar
+INST_MANDATE: Kurumsal yetki
+COMPILING_ORG: Veri derleyicileri
+DATA_SOURCE: Veri sağlayıcıları
+REL_CAL_POLICY: Veri yayınlama takvimi
+FREQ_COLL: Veri toplama takvimi
+COLL_METHOD: Veri toplama yöntemi
+SOURCE_TYPE: Veri kaynakları
+SRC_TYPE_COLL_METHOD: Veri kaynağı türü ve toplama yöntemi
+CLASS_SYSTEM: Sınıflandırmalar
+UNIT_MEASURE: Ölçü birimi
+STAT_CONC_DEF: Tanım ve kavramlar
+IND_DEF_CON_CLASS: Tanım, kavramlar ve sınıflandırmalar
+CONTACT_EMAIL: İletişim e-posta adresi
+CONTACT_MAIL: İletişim e-posta adresi
+CONTACT_PHONE: İletişim telefonu
+CONTACT_FUNCT: İletişime geçilecek kişinin işlevi
+ORGANISATION_UNIT: Kuruluş birimiyle iletişime geçin
+CONTACT_NAME: İletişime geçilecek kişi(ler)
+CONTACT_ORGANISATION: Kuruluş
+CONTACT: Veri raporlayıcı
+SDG_CUSTODIAN_AGENCIES: Küresel izlemeden sorumlu uluslararası kuruluşlar
+SDG_RELATED_INDICATORS: İlgili göstergeler
+META_LAST_UPDATE: Üst veri güncellemesi
+SDG_SERIES_DESCR: Dizi
+SDG_INDICATOR: Gösterge
+SDG_TARGET: Hedef
+SDG_GOAL: Amaç
+SDG_INDICATOR_INFO: Gösterge bilgileri

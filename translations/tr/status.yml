@@ -1,0 +1,25 @@
+reporting_status: 'Raporlama durumu'
+overall_reporting_status: 'Genel raporlama durumu'
+reported_online: 'Çevrim içi olarak raporlanan'
+statistics_in_progress: 'Devam eden istatistikler'
+exploring_data_sources: 'Veri kaynaklarını keşfetme'
+not_applicable: 'Uygulanabilir değil'
+# Describing a section where the status is reported for each goal
+status_by_goal: 'Amaca göre durum'
+status_by_field: '%field göre durum'
+disaggregation_status: 'Ayrıştırma durumu'
+disaggregation_status_overall: 'Genel ayrıştırma durumu'
+disaggregation_status_complete: 'Tamamen ayrıştırıldı'
+disaggregation_status_inprogress: 'Kısmen ayrıştırıldı'
+disaggregation_status_notstarted: 'Ayrıştırılmadı'
+disaggregation_status_notapplicable: 'Kapsam dışı'
+disaggregation_status_by_field: '%field göre ayrıştırma'
+not_specified: Belirtilmedi
+reported: Bildirildi
+description: Raporlama durumu, %name için ne kadar Sürdürülebilir Kalkınma Amacı (SDG)
+  verisinin raporlandığına ilişkin bir genel bakış sağlar.
+progress_status: İlerleme durumu
+progress_not_available: Mevcut değil
+progress_challenges_remain: Zorluklar devam ediyor
+progress_approaching_target: Yaklaşan hedef
+progress_target_achieved: Hedef alındı

@@ -1,0 +1,22 @@
+exploring_data_sources: Дереккөздерін зерттеу
+not_applicable: Жарамсыз
+overall_reporting_status: Жалпы есеп беру жағдайы
+reported_online: Интернетте хабарланған
+reporting_status: Есептіліктің жағдайы
+statistics_in_progress: Статистика орындалу барысында
+status_by_goal: Мақсат бойынша мәртебе
+status_by_field: "%field мәртебесі"
+disaggregation_status: 'Ажырату күйі'
+disaggregation_status_overall: 'Жалпы бөлшектеу мәртебесі'
+disaggregation_status_complete: 'Толығымен бөлінген'
+disaggregation_status_inprogress: 'Ішінара бөлшектелген'
+disaggregation_status_notstarted: 'Бөлінген жоқ'
+disaggregation_status_notapplicable: 'Қолданылу аясынан тыс'
+disaggregation_status_by_field: '% Өрісі бойынша бөлу'
+not_specified: Белгілі емес
+reported: Хабарланды
+progress_status: Орындалу күйі
+progress_not_available: Qoljetimdi emes
+progress_challenges_remain: Қиындықтар әлі де бар
+progress_approaching_target: Мақсатқа жақындау
+progress_target_achieved: Мақсатқа қол жеткізілді
