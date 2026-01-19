@@ -1,5 +1,2 @@
-custom:
-  statistics_Ukraine: 'Static Ukraine'
-  sdg_ukrstat: 'sdg ukrstat'
-statistics_Ukraine: 'Static Ukraine without custom'
-sdg_ukrstat: 'sdg ukrstat without custom'
+statistics_Ukraine: "Static Ukraine"
+sdg_ukrstat: "sdg ukrstat"
