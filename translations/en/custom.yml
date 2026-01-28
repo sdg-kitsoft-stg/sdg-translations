@@ -1,4 +1,4 @@
 statistics_Ukraine: "State Statistics Service of Ukraine"
 sdg_ukrstat: "Sustainable Development Goals on the State Statistics Service website"
-btn1: "Go to goals"
-btn2: "Go to the website"
+sdg_ukrstat_label: "Go to goals"
+statistics_button_label: "Go to the website"
