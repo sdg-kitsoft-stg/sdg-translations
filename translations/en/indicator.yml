@@ -37,7 +37,7 @@ dataset_size_warning: There are too many datasets to show on the chart. Not all
   will be shown until you remove some selections.
 view_indicator_list: View this goal's indicator list
 # A label describing a section of the page that allows the user to filter data by sub-category
-sub_categories: Sub-categories
+sub_categories: Filters
 # A label of "Show sub-categories" to display before a particular sub-category's name
 sub_categories_show: "Show sub-categories:"
 series_help: Choose categories from the dropdowns below to see different

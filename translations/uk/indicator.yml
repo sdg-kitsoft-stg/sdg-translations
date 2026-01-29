@@ -37,12 +37,10 @@ dataset_size_warning: 'На діаграмі занадто багато наб�
   доки не буде видалено деякі виділення.'
 view_indicator_list: 'Перегляд списку показників цієї цілі'
 # A label describing a section of the page that allows the user to filter data by sub-category
-sub_categories: 'Підкатегорії'
+sub_categories: 'Фільтри'
 # A label of "Show sub-categories" to display before a particular sub-category's name
 sub_categories_show: "Показати підкатегорії:"
-series_help: 'Виберіть категорії з розкривних списків нижче, щоб переглянути різні
-  розбивки даних. Деякі з них не будуть доступні, поки не буде обрано більш високий
-  рівень.'
+series_help: 'Оберіть категорії для перегляду розрізів даних. Деякі параметри доступні після вибору вищого рівня.'
 legend_help: 'Натисніть на легенду, щоб видалити окремі рядки з діаграми.'
 # A button that displays some data in the form of a chart
 chart: 'Діаграма'
